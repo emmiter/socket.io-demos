@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-demos",
+  "version": "1.0.0",
+  "description": "basic demos about socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmiter/socket.io-demos.git"
+  },
+  "keywords": [
+    "socket.io",
+    "demo"
+  ],
+  "author": "emmiter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emmiter/socket.io-demos/issues"
+  },
+  "homepage": "https://github.com/emmiter/socket.io-demos#readme"
+}
