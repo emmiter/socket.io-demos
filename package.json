@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/emmiter/socket.io-demos/issues"
   },
-  "homepage": "https://github.com/emmiter/socket.io-demos#readme"
+  "homepage": "https://github.com/emmiter/socket.io-demos#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  }
 }
